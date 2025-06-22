@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @RashiMaheshwari
 
-Welcome to my GitHub profile! I'm a passionate **Data Engineer** with a keen interest in building efficient, scalable, and fault-tolerant data pipelines. I specialize in **ETL workflows**, **data ingestion**, **real-time analytics**, and **cloud-native technologies**. My goal is to leverage data to drive better decision-making and build systems that deliver meaningful insights.
+Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a keen interest in building efficient, scalable, and fault-tolerant data pipelines. I specialize in **ETL workflows**, **data ingestion**, **real-time analytics**, and **cloud-native technologies**. My goal is to leverage data to drive better decision-making and build systems that deliver meaningful insights.
 - 📫 **How to reach me**:
   - I’d be happy to connect! You can reach me via:
     - **LinkedIn**: [Rashi Maheshwari](https://www.linkedin.com/in/rashi-maheshwari-15ab8320b)
